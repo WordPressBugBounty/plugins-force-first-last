@@ -1,7 +1,8 @@
 === Force First and Last Name as Display Name ===
-Contributors: andrewza, strangerstudios
+Contributors: andrewza
 Tags: display name, user, force, first name, last name
 Requires at least: 5.2
+License: GPLv2 or later
 Tested up to: 6.7
 Stable tag: 1.2.2
 

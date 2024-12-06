@@ -3,7 +3,8 @@
 Plugin Name: Force First and Last Name as Display Name
 Description: Force the user field display_name to be set as the user's first and last name.
 Version: 1.2.2
-Author: Contributors
+Author: Yoohoo Plugins
+License: GPLv2 or Later
 Text Domain: force-first-last
 Domain Path: /languages
 */
