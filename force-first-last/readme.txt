@@ -3,7 +3,7 @@ Contributors: andrewza
 Tags: display name, user, force, first name, last name
 Requires at least: 5.2
 License: GPLv2 or later
-Tested up to: 6.7
+Tested up to: 7.0
 Stable tag: 1.2.2
 
 Force the user field "display_name" to be set as the user's first and last name.
